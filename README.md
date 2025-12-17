@@ -28,7 +28,7 @@ https://github.com/kolivas380/project4-webdev
 I chose this project because it was one of the few times I have wroked with 3D printing.
 It relates to St. Thomas vison because it includes accesbility.
 
-**Repository**
+**Article**
 
 https://medium.com/macalester-hci/drag-an-ergonomic-writing-utensil-to-alleviate-wrist-pain-320373c6bf49
 
