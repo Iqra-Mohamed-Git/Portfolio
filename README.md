@@ -9,7 +9,8 @@ project higlights different skills I learned throught my time in both schools.
 I chose this project because it demonstrates my ability to solve a real world problem.
 There wasn't any way to be notified about events happening on Macalester College campus 
 without going to the website, so we solved that with making an app.
-  Backend: https://github.com/MarvinC21/MacEvents
+
+Backend: https://github.com/MarvinC21/MacEvents
 Frontend: https://github.com/JerseySanchez/MacEventsFrontEnd
 
 ## Project 2 - St. Paul Crime Data Web Application
